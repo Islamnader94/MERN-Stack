@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 
-export default class EditStudent extends Component {
+export default class EditCanndidate extends Component {
   render() {
     return (
       <div>
-        <p>React Edit Student Component!</p>
+        <p>React Edit Candidate Component!</p>
       </div>
     );
   }
